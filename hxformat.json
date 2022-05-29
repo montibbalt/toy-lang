@@ -1,0 +1,33 @@
+{
+    "indentation": {
+        "character": "    ",
+        "indentCaseLabels": false,
+        "trailingWhitespace": false
+    },
+    "sameLine": {
+        "anonFunctionBody": "keep",
+        "functionBody": "keep"
+    },
+    "lineEnds": {
+        "leftCurly": "after",
+        "emptyCurly": "break"
+    },
+    "emptyLines": {
+        "importAndUsing": {
+            "betweenImportsLevel": "firstLevelPackage",
+            "betweenImports": 0,
+            "beforeUsing": 1
+        },
+        "maxAnywhereInFile": 1
+    },
+    "wrapping": {
+        "casePattern": {
+            "defaultWrap": "onePerLineAfterFirst",
+            "defaultLocation": "beforeLast"
+        },
+        "methodChain": {
+            "defaultWrap": "onePerLine",
+            "defaultLocation": "afterLast"
+        }
+    }
+}
