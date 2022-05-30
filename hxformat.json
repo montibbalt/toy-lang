@@ -1,7 +1,7 @@
 {
     "indentation": {
         "character": "    ",
-        "indentCaseLabels": false,
+        "indentCaseLabels": true,
         "trailingWhitespace": false
     },
     "sameLine": {
